@@ -1,4 +1,4 @@
-# Website-HTML-CSS-JS-PHP-SQL-Restaurant-Ordering-System
+# Web Application-HTML-CSS-JS-PHP-SQL-Restaurant Ordering System
 
 ### Project Description
 
